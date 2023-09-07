@@ -3,9 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.1.32228.430
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "pjVentaHeredada", "pjVentaHeredada\pjVentaHeredada.csproj", "{303804DA-D2BD-45A7-BEFD-F94BFEF1CD4F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "pjVentaHeredada", "pjVentaHeredada\pjVentaHeredada.csproj", "{303804DA-D2BD-45A7-BEFD-F94BFEF1CD4F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Modelo", "Modelo\Modelo.csproj", "{19DDD03C-3303-46EC-8A83-64AF0891E186}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Modelo", "Modelo\Modelo.csproj", "{19DDD03C-3303-46EC-8A83-64AF0891E186}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PruebaHerencia", "PruebaHerencia\PruebaHerencia.csproj", "{905FDD19-6172-4AF3-BD98-6FC2079B1C9D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{19DDD03C-3303-46EC-8A83-64AF0891E186}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{19DDD03C-3303-46EC-8A83-64AF0891E186}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{19DDD03C-3303-46EC-8A83-64AF0891E186}.Release|Any CPU.Build.0 = Release|Any CPU
+		{905FDD19-6172-4AF3-BD98-6FC2079B1C9D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{905FDD19-6172-4AF3-BD98-6FC2079B1C9D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{905FDD19-6172-4AF3-BD98-6FC2079B1C9D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{905FDD19-6172-4AF3-BD98-6FC2079B1C9D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
